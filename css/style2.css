@@ -1,0 +1,42 @@
+ul li{
+    list-style:	 none;
+}
+p {
+    font-size: 3vw;
+}
+#mainNav #title1{
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+#mainNav #title1 li:hover{
+    background-color: cornsilk;
+    border-radius: 8px;
+}
+#mainNav #title1 a{
+    color: white;
+    transition: color 0.3s ease;
+    padding: 0 10px;
+}
+#mainNav #title1 a:hover{
+    border-color: slateblue !important;
+    color: red !important;
+}
+#contacts .left11,#contacts .right11,.left11,.right11{
+    flex: 1;
+    padding: 20px;
+}
+
+#Reviewer{
+    width: 100%;
+}
+#Reviewer li{
+    display: flex;
+}
+
+#Reviewer li h4{
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
