@@ -25,7 +25,11 @@ p {
 }
 #contacts .left11,#contacts .right11,.left11,.right11{
     flex: 1;
-    padding: 20px;
+    margin-bottom: 0;
+    /* padding: 20px; */
+}
+#contacts .left11 .lead,#contacts .right11 .lead{
+    margin-bottom: 0;
 }
 
 #Reviewer{
@@ -39,4 +43,20 @@ p {
     flex: 1;
     margin-top: 10px;
     margin-bottom: 0;
+}
+
+#contacts{
+    padding: 0;
+}
+#contacts .section-heading{
+    margin-bottom: 0;
+}
+
+#committee .section-heading a{
+    font-size: 18px;
+}
+.masthead .align-self-baseline a{
+    font-size: 1vw;
+    color: white;
+   
 }
