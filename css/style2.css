@@ -4,6 +4,9 @@ ul li{
 p {
     font-size: 3vw;
 }
+a.underline {
+    text-decoration: underline;
+  }
 #mainNav #title1{
     position: fixed;
     left: 50%;
@@ -46,17 +49,44 @@ p {
 }
 
 #contacts{
-    padding: 0;
+    padding: 5px 0;
 }
 #contacts .section-heading{
+    margin-top: 5px;
     margin-bottom: 0;
-}
-
-#committee .section-heading a{
     font-size: 18px;
 }
+
+#contacts .lead{
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    text-align: center !important;
+}
+
+#committee .section-heading{
+    margin: 5px;
+}
+#committee .section-heading a{
+    font-size: 14px;
+    text-decoration: underline;
+   
+}
+#committee .fadeInRightBig img{
+    width: 150px;
+    height: 150px;
+}
+
+#committee .section-heading + h6{
+    margin: 0;
+    text-align: center;
+}
+
 .masthead .align-self-baseline a{
     font-size: 1vw;
     color: white;
    
 }
+.masthead .align-self-baseline p:nth-child(5) a {
+    text-decoration: underline;
+  }
