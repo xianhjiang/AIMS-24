@@ -90,3 +90,7 @@ a.underline {
 .masthead .align-self-baseline p:nth-child(5) a {
     text-decoration: underline;
   }
+
+#introduction .wow.fadeInRightBig{
+    width: 100%;
+}
