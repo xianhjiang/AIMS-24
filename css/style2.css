@@ -94,3 +94,12 @@ a.underline {
 #introduction .wow.fadeInRightBig{
     width: 100%;
 }
+
+#invited .fadeInRightBig .wow b{
+    display: block;
+    text-align: center;
+}
+
+#dates .fadeInRightBig a{
+    text-decoration: underline;
+}
