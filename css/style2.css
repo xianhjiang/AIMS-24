@@ -107,3 +107,12 @@ a.underline {
 #invited .fadeInRightBig .lead{
     font-size: 16px;
 }
+
+#dates .paper li{
+    list-style-type: disc;
+    color: red;
+}
+#dates .paper li a{
+    color: red;
+    text-decoration: none;
+}
