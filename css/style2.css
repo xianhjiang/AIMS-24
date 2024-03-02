@@ -116,3 +116,12 @@ a.underline {
     color: red;
     text-decoration: none;
 }
+
+#invited .fadeInRightBig .col-sm-3 img{
+    width: 150px;
+    height: 150px;
+}
+
+#invited .fadeInRightBig .lead li a{
+    text-decoration: underline;
+}
