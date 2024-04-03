@@ -125,3 +125,6 @@ a.underline {
 #invited .fadeInRightBig .lead li a{
     text-decoration: underline;
 }
+#invited .fadeInRightBig .lead h4{
+    text-align: center;
+}
