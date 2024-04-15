@@ -10,7 +10,7 @@ a.underline {
 #mainNav #title1{
     position: fixed;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, 5%);
     
 }
 #mainNav #title1 li:hover{
@@ -128,3 +128,4 @@ a.underline {
 #invited .fadeInRightBig .lead h4{
     text-align: center;
 }
+
