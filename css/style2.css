@@ -128,4 +128,7 @@ a.underline {
 #invited .fadeInRightBig .lead h4{
     text-align: center;
 }
+#invited .fadeInRightBig .col-sm-3{
+    padding-top: 30px;
+}
 
