@@ -142,3 +142,7 @@ a.underline {
     margin-left: 50px;
     margin-bottom: 0px;
 }
+
+#invited .container .fadeInRightBig{
+    border-bottom: 2px solid black;
+}
