@@ -143,6 +143,16 @@ a.underline {
     margin-bottom: 0px;
 }
 
+#program  .fadeInLeftBig #Schedule p {
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+#program  .fadeInLeftBig #Schedule b {
+    margin-left: 50px;
+}
+
 #invited .container .fadeInRightBig{
     border-bottom: 2px solid black;
 }
